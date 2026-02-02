@@ -1,0 +1,10 @@
+{
+    "model_type": "optimized",
+    "model_path": "F:\\work_area\\___overflow\\code_\\mod_2_old\\little_model\\0122\\jinghua\\optimized.pth",
+    "threshold": 0.14355067908763885,
+    "use_tta": true,
+    "tta_num_augmentations": 3,
+    "temporal_window": 5,
+    "temporal_min_detections": 2,
+    "device": "cpu"
+}
